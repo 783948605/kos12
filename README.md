@@ -1,1 +1,1 @@
-kosm
+qkosm
